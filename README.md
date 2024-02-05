@@ -1,4 +1,4 @@
-Hi 👋 My name is Furkan Salman
+Hi 👋 My name is Furkan
 ==============================
 
 Web Developer / FrontEnd
