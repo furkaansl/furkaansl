@@ -1,7 +1,7 @@
 Hi 👋 My name is Furkan Salman
 ==============================
 
-MIS / Web Developer / FrontEnd
+Web Developer / FrontEnd
 ------------------------------
 
 ### Skills
