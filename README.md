@@ -1,8 +1,3 @@
-
-
-Hi 👋 My name is Furkan Salman
-==============================
-
 MIS / Mobile Developer
 ----------------------
 
