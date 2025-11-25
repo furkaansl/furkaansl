@@ -1,7 +1,7 @@
 Hi 👋 My name is Furkan
 ==============================
 
-Data Analysis | Android Dev.
+DATA | Data Analysis
 -----------------
 
 Menegament Information Systems
