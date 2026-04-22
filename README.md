@@ -1,4 +1,4 @@
-<h1 align="center">I'm Ali Furkan Salman</h1>
+<h1 align="center">I'm Furkan Salman</h1>
 <h3 align="center">Working on data analysis with R and Python.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=norcholly&label=Profile%20Views&color=0e75b6&style=flat" alt="furkaansl" /> </p>
